@@ -7,7 +7,7 @@ A sleek, modern web application that allows users to interact with Google's Gemi
 ## 🚀 Features
 
 * **Voice Interaction:** Uses the Web Speech API for real-time speech recognition and synthesis.
-* **Gemini AI Integration:** Powered by the `gemini-1.5-flash` model for fast and intelligent responses.
+* **Gemini AI Integration:** Powered by the `gemini-3-flash-preview` model for fast and intelligent responses.
 * **Real-time Feedback:** Displays interim results as you speak so you can see the AI "listening" in real-time.
 * **Modern UI:** A stunning liquid background with a glassmorphic container and smooth CSS animations.
 * **FastAPI Backend:** A robust Python backend to handle API communication and serve static files.
